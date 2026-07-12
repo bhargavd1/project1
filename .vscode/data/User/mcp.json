@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "service-center-mcp": {
+      "command": "service-center-mcp"
+    },
+    "ui5": {
+      "command": "ui5mcp"
+    },
+    "fiori": {
+      "command": "fiori-mcp"
+    }
+  },
+  "inputs": []
+}

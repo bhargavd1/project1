@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "afterDelay",
+  "extensions.ignoreRecommendations": true,
+  "git.terminalGitEditor": true,
+  "sqltools.useNodeRuntime": "/usr/local/bin/node",
+  "security.workspace.trust.enabled": false,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/.hg/store/**": true,
+    "**/node_modules/**": true
+  }
+}

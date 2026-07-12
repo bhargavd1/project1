@@ -1,0 +1,30 @@
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "Activating the 'service-catalog' extension...",
+  "time": "2026-07-12T11:32:01.781Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the SAP Fiori project type.",
+  "time": "2026-07-12T11:32:01.790Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the SAP Fiori project type.",
+  "time": "2026-07-12T11:32:01.790Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the  project type.",
+  "time": "2026-07-12T11:32:01.791Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "The 'service-catalog' extension is active.",
+  "time": "2026-07-12T11:32:02.611Z"
+}

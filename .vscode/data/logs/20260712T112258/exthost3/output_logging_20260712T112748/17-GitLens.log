@@ -1,0 +1,12 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.109.5) on the web; language='en', logLevel='warn', defaultDateLocale='null' (afe11184-f632-4d15-9662-1d1b3b266943|5f8aa5d9-144e-4b7a-9243-10492ebb91881783855665466)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2026-07-12 11:27:58.770] [GIT          ] [/home/user] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [12ms]
+
+[2026-07-12 11:27:59.782] [GIT          ] [/home/user] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [7ms]
+
+[2026-07-12 11:28:02.236] [GIT          ] [/home/user/.local/share/vscode-sqltools] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [7ms]
+
+[2026-07-12 11:39:56.159] [GIT          ] [/home/user/.vscode/data/User] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [10ms]
+
+[2026-07-12 11:41:56.479] [GIT          ] [/home/user/project1/webapp/annotations] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [39ms]
+

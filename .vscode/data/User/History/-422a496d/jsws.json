@@ -1,0 +1,35 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.semanticTokenColorCustomizations": {
+        "[Default Dark+]": {
+            "rules": {
+                "property.mandatory:xml": {
+                    "bold": true
+                },
+                "string.i18n:xml": {
+                    "italic": true
+                }
+            }
+        },
+        "[Default Light+]": {
+            "rules": {
+                "property.mandatory:xml": {
+                    "bold": true
+                },
+                "string.i18n:xml": {
+                    "italic": true
+                }
+            }
+        },
+        "[Default High Contrast]": {
+            "rules": {
+                "property.mandatory:xml": {
+                    "bold": true
+                },
+                "string.i18n:xml": {
+                    "italic": true
+                }
+            }
+        }
+    }
+}

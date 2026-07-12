@@ -1,0 +1,21 @@
+{
+  "exception": "No API endpoint set. Use 'cf login' or 'cf api' to target an endpoint.\n",
+  "label": "Cloud Foundry Tools.loginTargetView",
+  "level": "error",
+  "message": "getTarget failed",
+  "time": "2026-07-12T11:29:00.816Z"
+}
+{
+  "exception": "No API endpoint set. Use 'cf login' or 'cf api' to target an endpoint.\n",
+  "label": "Cloud Foundry Tools.loginTargetView",
+  "level": "error",
+  "message": "getTarget failed",
+  "time": "2026-07-12T11:30:01.654Z"
+}
+{
+  "label": "Cloud Foundry Tools.cfViewCommands",
+  "level": "error",
+  "message": "execSetTarget:: run 'set-target -f' with lable Default (no targets) failed",
+  "output": "Target Default (no targets) does not exist.\n",
+  "time": "2026-07-12T11:30:51.184Z"
+}

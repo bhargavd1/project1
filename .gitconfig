@@ -1,0 +1,7 @@
+[credential]
+	helper = /home/user/.bas-git/bas-git-helper-init.sh
+[user]
+	email = damabhargav@gmail.com
+	name = d bhargav
+[init]
+	defaultBranch = main
