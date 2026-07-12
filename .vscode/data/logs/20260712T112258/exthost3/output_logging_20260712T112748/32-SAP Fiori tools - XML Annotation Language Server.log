@@ -1,0 +1,12 @@
+Error in onWatchedFileChanged: Error: ENOENT: no such file or directory, open '/home/user/project1/webapp/localService/mainService/metadata.xml'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async e.t [as readFile] (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.28.0/dist/server.cjs:1367:17579)
+    at async e.getXmlDocument (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.28.0/dist/server.cjs:1355:43920)
+    at async e.updateODataFileFromFileSystem (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.28.0/dist/server.cjs:1355:33287)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.28.0/dist/server.cjs:1363:2428 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/project1/webapp/localService/mainService/metadata.xml'
+}

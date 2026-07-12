@@ -1,0 +1,4 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.109.5) on the web; language='en', logLevel='warn', defaultDateLocale='null' (afe11184-f632-4d15-9662-1d1b3b266943|76296672-17b5-4d35-a212-aee45013566b1783858272667)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2026-07-12 12:14:18.147] [GIT          ] [/home/user/projects/project1/.git] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • this operation must be run in a work tree [10ms]
+

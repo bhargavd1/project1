@@ -78,3 +78,43 @@ No change to package.json was detected. No package manager install will be execu
           
 No change to package.json was detected. No package manager install will be executed.
     force ../../../home/user/.vscode/launch.json
+   create ../../../home/user/projects/project1/webapp/Component.js
+   create ../../../home/user/projects/project1/webapp/index.html
+   create ../../../home/user/projects/project1/webapp/manifest.json
+   create ../../../home/user/projects/project1/webapp/i18n/i18n.properties
+   create ../../../home/user/projects/project1/.gitignore
+   create ../../../home/user/projects/project1/package.json
+   create ../../../home/user/projects/project1/ui5-local.yaml
+   create ../../../home/user/projects/project1/ui5.yaml
+   create ../../../home/user/projects/project1/eslint.config.mjs
+   create ../../../home/user/projects/project1/ui5-mock.yaml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/metadata.xml
+   create ../../../home/user/projects/project1/webapp/annotations/annotation.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_conn_000208/0001/FlightType/ConnectionID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/default/iwbep/common/0001/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_stat_000208/0001/TravelType/OverallStatus/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/dmo/i_airport/0001/ConnectionType/DepartureAirport/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/i_countryvh/0001/CustomerType/CountryCode/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/dmo/i_agency/0001/TravelType/AgencyID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_carr_000208/0001/BookingType/CarrierID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/i_draftadministrativeuservh/0001/I_DraftAdministrativeDataType/CreatedByUser/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/dmo/i_customer/0001/BookingType/CustomerID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_flig_000208/0001/BookingType/ConnectionID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/i_currency/0001/TravelType/CurrencyCode/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/i_draftadministrativeuservh/0001/I_DraftAdministrativeDataType/LastChangedByUser/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_carr_000208/0001/ConnectionType/AirlineID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/i_currency/0001/BookingType/CurrencyCode/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/sap/zi_fe_carr_000208/0001/FlightType/AirlineID/metadata.xml
+   create ../../../home/user/projects/project1/webapp/localService/mainService/srvd_f4/dmo/i_airport/0001/ConnectionType/DestinationAirport/metadata.xml
+   create ../../../home/user/projects/project1/webapp/test/integration/pages/TravelList.gen.js
+   create ../../../home/user/projects/project1/webapp/test/integration/pages/TravelObjectPage.gen.js
+   create ../../../home/user/projects/project1/webapp/test/integration/pages/BookingObjectPage.gen.js
+   create ../../../home/user/projects/project1/webapp/test/integration/pages/JourneyRunner.js
+   create ../../../home/user/projects/project1/webapp/test/integration/TravelListJourney.gen.js
+   create ../../../home/user/projects/project1/webapp/test/integration/TravelObjectPageJourney.gen.js
+   create ../../../home/user/projects/project1/webapp/test/integration/BookingObjectPageJourney.gen.js
+   create ../../../home/user/projects/project1/README.md
+   create ../../../home/user/projects/project1/.appGenInfo.json
+          
+No change to package.json was detected. No package manager install will be executed.
+    force ../../../home/user/.vscode/launch.json

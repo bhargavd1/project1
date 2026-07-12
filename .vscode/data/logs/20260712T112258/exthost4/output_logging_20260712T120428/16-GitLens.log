@@ -1,0 +1,2 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.109.5) on the web; language='en', logLevel='warn', defaultDateLocale='null' (afe11184-f632-4d15-9662-1d1b3b266943|d849f808-64db-4839-bd05-397d8f6684cb1783857865255)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette

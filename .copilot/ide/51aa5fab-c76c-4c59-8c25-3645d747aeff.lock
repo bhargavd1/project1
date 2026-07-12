@@ -1,0 +1,14 @@
+{
+  "socketPath": "/tmp/mcp-4Z9OSC/mcp.sock",
+  "scheme": "unix",
+  "headers": {
+    "Authorization": "Nonce 9548d038-0241-472f-838c-68e251b8fa7b"
+  },
+  "pid": 48153,
+  "ideName": "SAP Business Application Studio",
+  "timestamp": 1783858721378,
+  "workspaceFolders": [
+    "/home/user/projects/project1"
+  ],
+  "isTrusted": true
+}
