@@ -286,3 +286,21 @@
   "message": "Committing and syncing repository...",
   "time": "2026-07-17T16:21:45.037Z"
 }
+{
+  "label": "simplified-git.GitServiceImpl",
+  "level": "warn",
+  "message": "Unexpected error: fatal: no upstream configured for branch 'main'\n",
+  "time": "2026-07-17T16:21:45.423Z"
+}
+{
+  "label": "simplified-git.AddRemoteRepositoryActionHandler",
+  "level": "error",
+  "message": "User did not provide a valid remote repository URL",
+  "time": "2026-07-17T16:21:55.011Z"
+}
+{
+  "label": "simplified-git.AddRemoteRepositoryActionHandler",
+  "level": "error",
+  "message": "User did not provide a valid remote repository URL",
+  "time": "2026-07-17T16:22:03.027Z"
+}
