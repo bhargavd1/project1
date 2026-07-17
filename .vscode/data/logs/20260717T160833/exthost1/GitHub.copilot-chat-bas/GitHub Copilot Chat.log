@@ -24,3 +24,7 @@
     at OctoKitService.getAllSessions (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:372705:15)
     at async Promise.all (index 0)
     at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:428724:21
+2026-07-17 16:17:37.818 [error] PermissiveAuthRequiredError: Permissive authentication is required
+    at OctoKitService.getAllSessions (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:372705:15)
+    at async Promise.all (index 0)
+    at schedulerCallback (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:428180:24)

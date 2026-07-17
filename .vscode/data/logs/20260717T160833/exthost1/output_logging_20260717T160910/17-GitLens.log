@@ -4,3 +4,5 @@ To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: E
 EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/user/.local/share/gk/repoMapping.json'
 [2026-07-17 16:10:07.789] [GIT    *620ms] [/home/user] git blame --root --incremental -- .vscode/data/logs/20260712T112258/exthost7/output_logging_20260712T121833/16-GitLens.log [*620ms] (slow)
 [2026-07-17 16:10:09.009] [GIT   *1216ms] [/home/user] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M --name-status --full-history -m --no-min-parents -n3 af02453447779ddb6b550de07bff91f5b9a7becd -- [*1216ms] (slow)
+[2026-07-17 16:13:37.536] [GIT          ] [/home/user/.git] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • this operation must be run in a work tree [9ms]
+

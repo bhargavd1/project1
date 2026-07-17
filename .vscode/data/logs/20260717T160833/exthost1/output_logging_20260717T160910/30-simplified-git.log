@@ -274,3 +274,15 @@
   "message": "Repository: /home/user/projects/project1 - new",
   "time": "2026-07-17T16:12:04.936Z"
 }
+{
+  "label": "simplified-git.AddRemoteRepositoryActionHandler",
+  "level": "error",
+  "message": "User did not provide a valid remote repository URL",
+  "time": "2026-07-17T16:21:33.147Z"
+}
+{
+  "label": "simplified-git.CommitAndSyncActionHandler",
+  "level": "debug",
+  "message": "Committing and syncing repository...",
+  "time": "2026-07-17T16:21:45.037Z"
+}
