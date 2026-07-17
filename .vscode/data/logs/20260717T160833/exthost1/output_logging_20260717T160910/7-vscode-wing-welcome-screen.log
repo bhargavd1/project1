@@ -1,0 +1,6 @@
+{
+  "label": "vscode-wing-welcome-screen.GitAuthentication",
+  "level": "error",
+  "message": "gitAuthenticationGetFullContext - authentication process canceled",
+  "time": "2026-07-17T16:25:26.067Z"
+}
