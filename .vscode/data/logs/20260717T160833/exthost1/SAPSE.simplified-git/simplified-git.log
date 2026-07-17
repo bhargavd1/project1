@@ -310,3 +310,15 @@
   "message": "Committing and syncing repository...",
   "time": "2026-07-17T16:24:29.373Z"
 }
+{
+  "label": "simplified-git.GitServiceImpl",
+  "level": "warn",
+  "message": "Unexpected error: fatal: no upstream configured for branch 'main'\n",
+  "time": "2026-07-17T16:24:29.954Z"
+}
+{
+  "label": "simplified-git.CommitAndSyncActionHandler",
+  "level": "debug",
+  "message": "Committing and syncing repository...",
+  "time": "2026-07-17T16:25:21.895Z"
+}
